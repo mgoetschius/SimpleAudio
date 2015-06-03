@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1432425676 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\audioplayer.cpp
+	"SimpleAudio.h"
+	"AudioPlayer.h"
+	"WinMMPlayer.h"
+	"XAudio2Player.h"
+	"NullPlayer.h"
+
+1432846932 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\simpleaudio.h
+	<memory>
+	<vector>
+	<string>
+	<thread>
+	<mutex>
+	<Windows.h>
+
+1432501362 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\audioplayer.h
+	<windows.h>
+	<mmsystem.h>
+	<vector>
+	<thread>
+	<mutex>
+	<memory>
+	"SimpleAudio.h"
+
+1432501362 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\winmmplayer.h
+	"SimpleAudio.h"
+
+1432501362 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\xaudio2player.h
+	"SimpleAudio.h"
+	<Windows.h>
+	<XAudio2.h>
+
+1433275332 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\thirdparty\include\xaudio2.h
+	<comdecl.h>
+	<xobjbase.h>
+	<objbase.h>
+	<sal.h>
+	<audiodefs.h>
+	<xma2defs.h>
+	<math.h>
+
+1433275467 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\thirdparty\include\comdecl.h
+	<basetyps.h>
+	<xtl.h>
+	<xobjbase.h>
+
+1433292485 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\thirdparty\include\sal.h
+
+1433275519 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\thirdparty\include\audiodefs.h
+	<windef.h>
+
+1433275574 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\thirdparty\include\xma2defs.h
+	<sal.h>
+	<winerror.h>
+	<audiodefs.h>
+
+1432224264 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\nullplayer.h
+	"AudioPlayer.h"
+
+1432224264 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\nullplayer.cpp
+	"NullPlayer.h"
+
+1432427270 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\nullsound.cpp
+	"NullSound.h"
+
+1432426075 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\nullsound.h
+	"sound.h"
+
+1432501393 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\sound.h
+	<string>
+	<vector>
+	<memory>
+	"SimpleAudio.h"
+
+1432316296 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\oggfile.cpp
+	"OggFile.h"
+	"SimpleAudio.h"
+
+1432315508 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\oggfile.h
+	"Sound.h"
+	"stb_vorbis.h"
+
+1432309755 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\stb_vorbis.h
+	"stb_vorbis.c"
+
+1432309755 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\stb_vorbis.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1432427327 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\sound.cpp
+	"Sound.h"
+	"SimpleAudio.h"
+	"WaveFile.h"
+	"OggFile.h"
+	"NullSound.h"
+	<algorithm>
+
+1433293673 c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\wavefile.h
+	<fstream>
+	<windows.h>
+	"Sound.h"
+
+1432309755 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\stb_vorbis.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1433293673 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\wavefile.cpp
+	"WaveFile.h"
+	"SimpleAudio.h"
+
+1432317012 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\winmmplayer.cpp
+	"WinMMPlayer.h"
+
+1432427270 source:c:\users\mike\work folder\c_c++\simpleaudiofolder\simpleaudio\src\xaudio2player.cpp
+	"SimpleAudio.h"
+	"XAudio2Player.h"
+

@@ -1,0 +1,32 @@
+﻿Build started 6/3/2015 10:53:24 AM.
+     1>Project "C:\Users\mike\Work Folder\C_C++\SimpleAudioFolder\VS2012Project\SimpleAudio\SimpleAudio.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\SimpleAudio\src\AudioPlayer.cpp ..\..\SimpleAudio\src\NullPlayer.cpp ..\..\SimpleAudio\src\NullSound.cpp ..\..\SimpleAudio\src\OggFile.cpp ..\..\SimpleAudio\src\Sound.cpp ..\..\SimpleAudio\src\WaveFile.cpp ..\..\SimpleAudio\src\WinMMPlayer.cpp ..\..\SimpleAudio\src\XAudio2Player.cpp
+         AudioPlayer.cpp
+         NullPlayer.cpp
+         NullSound.cpp
+         OggFile.cpp
+         Sound.cpp
+         WaveFile.cpp
+         WinMMPlayer.cpp
+         XAudio2Player.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\SimpleAudio\src\stb_vorbis.c
+         stb_vorbis.c
+     1>..\..\SimpleAudio\src\stb_vorbis.c(5013): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\mike\Work Folder\C_C++\SimpleAudioFolder\VS2012Project\SimpleAudio\Release\SimpleAudio.lib" /NOLOGO /LTCG Release\AudioPlayer.obj
+         Release\NullPlayer.obj
+         Release\NullSound.obj
+         Release\OggFile.obj
+         Release\Sound.obj
+         Release\stb_vorbis.obj
+         Release\WaveFile.obj
+         Release\WinMMPlayer.obj
+         Release\XAudio2Player.obj
+         SimpleAudio.vcxproj -> C:\Users\mike\Work Folder\C_C++\SimpleAudioFolder\VS2012Project\SimpleAudio\Release\SimpleAudio.lib
+     1>Done Building Project "C:\Users\mike\Work Folder\C_C++\SimpleAudioFolder\VS2012Project\SimpleAudio\SimpleAudio.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.99
